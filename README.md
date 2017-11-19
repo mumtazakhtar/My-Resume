@@ -1,6 +1,6 @@
 # My-Resume
 
-![banner](https://github.com/novaeeken/User-Information-Application/blob/master/img/homepage.jpg?raw=true)
+![banner](https://github.com/mumtazakhtar/My-Resume/blob/master/img/homepage.jpg?raw=true)
 
 > Visualization of the Resume homepage
 
