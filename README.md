@@ -1,6 +1,6 @@
 # My-Resume
 
-![banner](https://github.com/novaeeken/User-Information-Application/blob/master/images/homepage.jpg?raw=true)
+![banner](https://github.com/novaeeken/User-Information-Application/blob/master/img/homepage.jpg?raw=true)
 
 > Visualization of the Resume homepage
 
@@ -10,4 +10,4 @@ I'm currently enrolled in a coding bootcamp at the New York Code and Design acad
 
 ## Libraries & Technologies
 - Bootstrap v4
--jQuery
+- jQuery
